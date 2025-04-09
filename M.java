@@ -2,7 +2,7 @@ import java.util.*;
 
 class M{
     public static void main(String[] args){
-        System.out.println("kanna");
+        System.out.println("Yakanna");
     }
 }
 // git init
